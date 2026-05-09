@@ -76,9 +76,7 @@ If any provision of these Terms is held invalid or unenforceable, the remaining 
 
 ## 10. Contact
 
-For inquiries regarding these Terms:
-
-- GitHub Issues: https://github.com/junnonaka/BleArRadar/issues
+For inquiries regarding these Terms, please contact us through the **App Store review section**.
 
 ---
 

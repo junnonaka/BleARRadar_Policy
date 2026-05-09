@@ -76,9 +76,7 @@
 
 ## 10. 連絡先
 
-本規約に関するお問い合わせは、以下までご連絡ください。
-
-- GitHub Issues: https://github.com/junnonaka/BleArRadar/issues
+本規約に関するお問い合わせは、**App Store のレビュー欄**を通じてご連絡ください。
 
 ---
 

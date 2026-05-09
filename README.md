@@ -2,8 +2,6 @@
 
 This repository hosts the **Privacy Policy** and **Terms of Use** for the iOS app **BleARRadar**.
 
-App: [github.com/junnonaka/BleArRadar](https://github.com/junnonaka/BleArRadar)
-
 ---
 
 ## English

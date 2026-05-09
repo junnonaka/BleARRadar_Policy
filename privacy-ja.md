@@ -70,9 +70,7 @@ ARKit による空間認識および Vision フレームワークによる物体
 
 ## 9. 連絡先
 
-本ポリシーまたは本アプリのプライバシー慣行に関するお問い合わせは、以下までご連絡ください。
-
-- GitHub Issues: https://github.com/junnonaka/BleArRadar/issues
+本ポリシーまたは本アプリのプライバシー慣行に関するお問い合わせは、**App Store のレビュー欄**を通じてご連絡ください。
 
 ---
 

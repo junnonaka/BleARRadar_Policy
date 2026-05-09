@@ -70,9 +70,7 @@ This Policy may be changed without prior notice. Significant changes will be ann
 
 ## 9. Contact
 
-For inquiries regarding this Policy or the App's privacy practices:
-
-- GitHub Issues: https://github.com/junnonaka/BleArRadar/issues
+For inquiries regarding this Policy or the App's privacy practices, please contact us through the **App Store review section**.
 
 ---
 
